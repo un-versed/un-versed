@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="center">
+    <img height="150" src="https://github.com/un-versed/un-versed/blob/main/NvI.gif?raw=true"/>
+</p>
 
-<!--
-**un-versed/un-versed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+Hi, I'm Gustavo! 👋
 
-Here are some ideas to get you started:
++ 📍 São José dos Campos, São Paulo
++ 🖖🏻 22 years
++ 🎼 Musician & Hobbyist Producer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨🏻‍💻 I'm a software developer at mLabs
+
+# ☝🏻 Javascript is my favorite language
+
+# 💖 In a complicated relationship with Node.js
+```
+<p align="center">
+  <img height="50" src="./twitter.svg" href="https://twitter.com/_unvrsd">
+  <img height="50" src="./spotify.svg" href="https://spoti.fi/3iqXYbO">
+  <img height="50" src="./instagram.svg" href="https://www.instagram.com/unver.sed/">
+</p>
