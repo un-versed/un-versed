@@ -13,7 +13,7 @@ Hi, I'm Gustavo! 👋
 
 # ☝🏻 Javascript is my favorite language
 
-# 💖 In a complicated relationship with Node.js for about 5 years
+# 💖 In a complicated relationship with Node.js for about 6 years
 ```
 <p align="center">
   <img height="50" src="./twitter.svg" href="https://twitter.com/_unvrsd">
