@@ -9,7 +9,7 @@ Hi, I'm Gustavo! 👋
 + 🖖🏻 22 years
 + 🎼 Musician & Hobbyist Producer
 
-# 👨🏻‍💻 I'm a software developer at mLabs
+# 👨🏻‍💻 I'm a software engineer at Dock
 
 # ☝🏻 Javascript is my favorite language
 
