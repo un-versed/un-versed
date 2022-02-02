@@ -9,12 +9,12 @@ Hi, I'm Gustavo! 👋
 + 🖖🏻 22 years
 + 🎼 Musician & Hobbyist Producer
 
-# 👨🏻‍💻 I'm a software engineer at Dock.
+# 👨🏻‍💻 I'm a software engineer at Dock
 
-# ☝🏻 Javascript is my favorite language.
+# ☝🏻 Javascript is my favorite language
 
-# 💖 In a complicated relationship with Node.js for about 6 years.
-# 🤔 Learning Go!
+# 💖 In a complicated relationship with Node.js for about 6 years
+# 🤔 Learning Go
 ```
 <p align="center">
   <img height="50" src="./twitter.svg" href="https://twitter.com/_unvrsd">
