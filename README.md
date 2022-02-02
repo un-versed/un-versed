@@ -14,6 +14,7 @@ Hi, I'm Gustavo! 👋
 # ☝🏻 Javascript is my favorite language
 
 # 💖 In a complicated relationship with Node.js for about 6 years
+
 # 🤔 Learning Go
 ```
 <p align="center">
