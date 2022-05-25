@@ -6,16 +6,16 @@
 Hi, I'm Gustavo! 👋
 
 + 📍 São José dos Campos, São Paulo
-+ 🖖🏻 22 years
++ 🖖🏻 23 years
 + 🎼 Musician & Hobbyist Producer
 
-# 👨🏻‍💻 I'm a software engineer at Dock
+# 👨🏻‍💻 I'm a senior software engineer at Dock
 
 # ☝🏻 Javascript is my favorite language
 
 # 💖 In a complicated relationship with Node.js for about 6 years
 
-# 🤔 Learning Go
+# 🐿️ Currently working with Go
 ```
 <p align="center">
   <img height="50" src="./twitter.svg" href="https://twitter.com/_unvrsd">
