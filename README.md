@@ -11,9 +11,11 @@ Hi, I'm Gustavo! 👋
 
 # 👨🏻‍💻 I'm a senior software engineer at Dock
 
-# ☝🏻 Javascript is my favorite language
+# ☝🏻 Javascript used to be my favorite language
+# 🤔 Go is probably my new favorite language
 
 # 💖 In a complicated relationship with Node.js for about 6 years
+# 😘 Flirting with Go for almost a year
 
 # 🐿️ Currently working with Go
 ```
