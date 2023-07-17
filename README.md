@@ -6,7 +6,7 @@
 Hi, I'm Gustavo! 👋
 
 + 📍 São José dos Campos, São Paulo
-+ 🖖🏻 23 years
++ 🖖🏻 24 years
 + 🎼 Musician & Hobbyist Producer
 
 # 👨🏻‍💻 I'm a senior software engineer at Dock
@@ -14,8 +14,8 @@ Hi, I'm Gustavo! 👋
 # ☝🏻 Javascript used to be my favorite language
 # 🤔 Go is probably my new favorite language
 
-# 💖 In a complicated relationship with Node.js for about 6 years
-# 😘 Flirting with Go for almost a year
+# 💖 In a complicated relationship with Node.js for about 7 years
+# 😘 Flirting with Go for almost 2 years
 
 # 🐿️ Currently working with Go
 ```
