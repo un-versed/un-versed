@@ -9,7 +9,7 @@ Hi, I'm Gustavo! 👋
 + 🖖🏻 24 years
 + 🎼 Musician & Hobbyist Producer
 
-# 👨🏻‍💻 I'm a senior software engineer at Dock
+# 👨🏻‍💻 I'm a senior software engineer at Designa
 
 # ☝🏻 Javascript used to be my favorite language
 # 🤔 Go is probably my new favorite language
