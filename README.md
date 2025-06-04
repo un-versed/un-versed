@@ -7,9 +7,9 @@ Hi, I'm Gustavo! 👋
 
 + 📍 São José dos Campos, São Paulo
 + 🖖🏻 26 years
-+ 🎼 Musician & Hobbyist Producer
++ 🎼 Musician & Producer
 
-# 👨🏻‍💻 I'm a senior software engineer at Designa!
+# 👨🏻‍💻 I'm a senior software engineer at ASAPTech!
 
 # ☝🏻 Javascript used to be my favorite language
 # 🤔 Go is probably my new favorite language
