@@ -20,8 +20,4 @@ Hi, I'm Gustavo! 👋
 
 # 🐿️ Currently working with Go
 ```
-<p align="center">
-  <img height="50" src="./twitter.svg" href="https://twitter.com/_unvrsd">
-  <img height="50" src="./spotify.svg" href="https://spoti.fi/3iqXYbO">
-  <img height="50" src="./instagram.svg" href="https://www.instagram.com/unver.sed/">
-</p>
+
