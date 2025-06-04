@@ -6,7 +6,7 @@
 Hi, I'm Gustavo! 👋
 
 + 📍 São José dos Campos, São Paulo
-+ 🖖🏻 25 years
++ 🖖🏻 26 years
 + 🎼 Musician & Hobbyist Producer
 
 # 👨🏻‍💻 I'm a senior software engineer at Designa!
@@ -14,11 +14,11 @@ Hi, I'm Gustavo! 👋
 # ☝🏻 Javascript used to be my favorite language
 # 🤔 Go is probably my new favorite language
 
-# 💖 In a complicated relationship with Node.js for about 8 years
-# 😘 Flirting with Go for almost 3 years
+# 💖 In a complicated relationship with Javascript for about 9 years
+# 😘 Flirting with Go for 3 years
 # 🔭 Learning more about Ruby on Rails
 
-# 🐿️ Currently working with Ruby
+# 🐿️ Currently working with Go
 ```
 <p align="center">
   <img height="50" src="./twitter.svg" href="https://twitter.com/_unvrsd">
